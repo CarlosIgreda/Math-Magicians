@@ -53,6 +53,9 @@ This is the first project of the Math Magicians application. I will set up the e
 - **Comply with linters**
 - **Set up a React app**
 - **Use React documentation**
+- **Use React components**
+- **Use React props**
+- **Use React state**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +90,6 @@ and use this commands to initiliaze all packages:
 
 ```sh
   npm install
-  cd my-app
   npm start
 ```
 
