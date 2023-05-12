@@ -56,6 +56,9 @@ This is the first project of the Math Magicians application. I will set up the e
 - **Use React components**
 - **Use React props**
 - **Use React state**
+- **Handle events in a React app**
+- **Use React life cycle methods**
+- **Understand the mechanism of lifting state up**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +109,7 @@ and use this commands to initiliaze all packages:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Calculator App**
+- [ ] **Fetch data from API**
 - [ ] **Deployment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
