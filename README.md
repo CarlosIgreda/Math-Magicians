@@ -64,7 +64,7 @@ This is the first project of the Math Magicians application. I will set up the e
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/CarlosIgreda/Math-Magicians/build)
+- [Live Demo Link](https://github.com/CarlosIgreda/Math-Magicians)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
