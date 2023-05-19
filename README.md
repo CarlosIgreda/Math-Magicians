@@ -64,6 +64,8 @@ This is the first project of the Math Magicians application. I will set up the e
 - **Show different UI outputs depending on the component state**
 - **Use React Router**
 - **Use styles in a React app**
+- **Write unit tests with React Testing Library**
+- **Write unit tests with snapshots with Jest**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
