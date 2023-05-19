@@ -121,7 +121,7 @@ and use this commands to initiliaze all packages:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-## 👤 Collaboration:
+👤 Collaboration:
 
 Contributions, issues, and feature requests are welcome!
 
