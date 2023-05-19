@@ -117,6 +117,11 @@ and use this commands to initiliaze all packages:
 - Linkedin: [@abiola-arobieke](https://linkedin.com/in/abiola-arobieke)
 - Twitter: [@abiola_arobieke](https://twitter.com/abiola_arobieke)
 
+**Adeyemi Olusola**
+- GitHub: [@Emarkees](https://github.com/emarkees)
+- Linkedin: [@Adeyemi Olusola](https://www.linkedin.com/in/adeyemi-olusola-1a3ab1141/)
+- Twitter: [@Adeyemi Olusola](https://twitter.com/McEmarkees)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
