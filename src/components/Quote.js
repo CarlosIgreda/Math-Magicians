@@ -1,8 +1,7 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
-import Buttons from './Buttons';
+import QuoteContainer from './QuoteContainer';
 
-function Calculator() {
+function Quote() {
   return (
     <div>
       <nav className="header">
@@ -19,11 +18,9 @@ function Calculator() {
           </li>
         </ul>
       </nav>
-      <div className="calc">
-        <p className="math-text">Let&#39;s do some math!</p>
-        <Buttons />
-      </div>
+      <QuoteContainer />
     </div>
   );
 }
-export default Calculator;
+
+export default Quote;

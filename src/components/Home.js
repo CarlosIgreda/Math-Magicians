@@ -1,8 +1,14 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
-import Buttons from './Buttons';
 
-function Calculator() {
+const { loremIpsum } = require('lorem-ipsum');
+
+function Home() {
+  const characterCount = 10; // Change this to the desired count
+  const lorem = loremIpsum({
+    count: characterCount,
+    format: 'plain',
+  });
+
   return (
     <div>
       <nav className="header">
@@ -19,11 +25,13 @@ function Calculator() {
           </li>
         </ul>
       </nav>
-      <div className="calc">
-        <p className="math-text">Let&#39;s do some math!</p>
-        <Buttons />
-      </div>
+      <section className="home-container">
+        <h1 className="home-title">Welcome to our page!</h1>
+        <p className="lorem-text">{lorem}</p>
+        <p className="lorem-text">{lorem}</p>
+      </section>
     </div>
   );
 }
-export default Calculator;
+
+export default Home;
