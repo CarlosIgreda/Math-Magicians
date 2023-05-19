@@ -24,15 +24,10 @@ describe('calculate', () => {
       }
 
       return error;
-      // Add more implementations for other operations
     });
 
     const result = calculate({ total: '5', next: '2', operation: '+' }, '=');
     expect(result).toEqual({ total: 7, next: null, operation: null });
     expect(operate).toHaveBeenCalledWith('5', '2', '+');
   });
-
-  // Add more test cases for other conditions in the calculate function
-
-  // ...
 });
