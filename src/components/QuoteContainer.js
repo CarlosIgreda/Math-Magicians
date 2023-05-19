@@ -39,7 +39,7 @@ function QuoteContainer() {
   }, []);
 
   if (isLoading) {
-    return <p>Loading...</p>;
+    return <p className="loading-text">Loading...</p>;
   }
 
   if (error) {

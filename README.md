@@ -62,6 +62,8 @@ This is the first project of the Math Magicians application. I will set up the e
 - **Use the correct React hook when fetching data**
 - **Connect to an API within a functional component**
 - **Show different UI outputs depending on the component state**
+- **Use React Router**
+- **Use styles in a React app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,14 +115,13 @@ and use this commands to initiliaze all packages:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Redux**
-- [ ] **UI improvement**
 - [ ] **Mobile version**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-## 👤 Collaboration:
+👤 Collaboration:
 
 Contributions, issues, and feature requests are welcome!
 
