@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttons should render correctly 1`] = `
+<div>
+  <div
+    class="buttons"
+  >
+    <div
+      class="display"
+    >
+      0
+    </div>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      %
+    </button>
+    <button
+      class="button math-symbols"
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      7
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      8
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      9
+    </button>
+    <button
+      class="button math-symbols"
+      type="button"
+    >
+      x
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      4
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      5
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      6
+    </button>
+    <button
+      class="button math-symbols"
+      type="button"
+    >
+      -
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      1
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      2
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      3
+    </button>
+    <button
+      class="button math-symbols"
+      type="button"
+    >
+      +
+    </button>
+    <button
+      class="button numbers-and-extras number0"
+      type="button"
+    >
+      0
+    </button>
+    <button
+      class="button numbers-and-extras"
+      type="button"
+    >
+      .
+    </button>
+    <button
+      class="button math-symbols"
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
