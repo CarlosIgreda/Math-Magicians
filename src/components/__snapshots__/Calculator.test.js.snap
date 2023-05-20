@@ -1,0 +1,180 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator should render correctly 1`] = `
+<div>
+  <div>
+    <nav
+      class="header"
+    >
+      <h1
+        class="title"
+      >
+        📐 Math Magicians📏
+      </h1>
+      <ul
+        class="menu"
+      >
+        <li
+          class="menu-item"
+        >
+          <a
+            href="/Math-Magicians"
+          >
+            Home
+          </a>
+        </li>
+        <li
+          class="menu-item"
+        >
+          <a
+            href="/Math-Magicians/calculator"
+          >
+            Calculator
+          </a>
+        </li>
+        <li
+          class="menu-item"
+        >
+          <a
+            href="/Math-Magicians/quote"
+          >
+            Quote
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <div
+      class="calc"
+    >
+      <p
+        class="math-text"
+      >
+        Let's do some math!
+      </p>
+      <div
+        class="buttons"
+      >
+        <div
+          class="display"
+        >
+          0
+        </div>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          AC
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          +/-
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          %
+        </button>
+        <button
+          class="button math-symbols"
+          type="button"
+        >
+          ÷
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          7
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          8
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          9
+        </button>
+        <button
+          class="button math-symbols"
+          type="button"
+        >
+          x
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          4
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          5
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          6
+        </button>
+        <button
+          class="button math-symbols"
+          type="button"
+        >
+          -
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          1
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          2
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          3
+        </button>
+        <button
+          class="button math-symbols"
+          type="button"
+        >
+          +
+        </button>
+        <button
+          class="button numbers-and-extras number0"
+          type="button"
+        >
+          0
+        </button>
+        <button
+          class="button numbers-and-extras"
+          type="button"
+        >
+          .
+        </button>
+        <button
+          class="button math-symbols"
+          type="button"
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

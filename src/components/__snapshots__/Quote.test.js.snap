@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quote should render correctly 1`] = `
+<div>
+  <div>
+    <nav
+      class="header"
+    >
+      <h1
+        class="title"
+      >
+        📐 Math Magicians📏
+      </h1>
+      <ul
+        class="menu"
+      >
+        <li
+          class="menu-item"
+        >
+          <a
+            href="/Math-Magicians"
+          >
+            Home
+          </a>
+        </li>
+        <li
+          class="menu-item"
+        >
+          <a
+            href="/Math-Magicians/calculator"
+          >
+            Calculator
+          </a>
+        </li>
+        <li
+          class="menu-item"
+        >
+          <a
+            href="/Math-Magicians/quote"
+          >
+            Quote
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <p
+      class="loading-text"
+    >
+      Loading...
+    </p>
+  </div>
+</div>
+`;

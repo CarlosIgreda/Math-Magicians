@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuoteDisplay should render the quote correctly 1`] = `
+<div>
+  <div>
+    <p
+      class="quote-text"
+    >
+      "
+      Test Quote
+      "
+    </p>
+  </div>
+</div>
+`;
