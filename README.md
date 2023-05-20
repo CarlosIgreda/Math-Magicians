@@ -10,7 +10,7 @@
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-- [👥 Author](#author)
+- [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -105,12 +105,22 @@ and use this commands to initiliaze all packages:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="author"></a>
+## 👥 Authors <a name="authors"></a>
 
 **Carlos Igreda**
 - GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
 - Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
 - LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
+
+**Abiola Arobieke**
+- GitHub: [@abiola-arobieke](https://github.com/abiola-arobieke)
+- Linkedin: [@abiola-arobieke](https://linkedin.com/in/abiola-arobieke)
+- Twitter: [@abiola_arobieke](https://twitter.com/abiola_arobieke)
+
+**Adeyemi Olusola**
+- GitHub: [@Emarkees](https://github.com/emarkees)
+- Linkedin: [@Adeyemi Olusola](https://www.linkedin.com/in/adeyemi-olusola-1a3ab1141/)
+- Twitter: [@Adeyemi Olusola](https://twitter.com/McEmarkees)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
