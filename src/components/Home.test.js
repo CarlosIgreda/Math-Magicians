@@ -1,15 +1,21 @@
-import React from 'react';
-import { render } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import { MemoryRouter } from 'react-router-dom';
 import Home from './Home';
 
-describe('Home', () => {
-  it('should render correctly', () => {
-    const { container } = render(
-      <MemoryRouter>
-        <Home />
-      </MemoryRouter>,
-    );
-    expect(container).toMatchSnapshot();
+test('should limit the lorem text to the desired character count', () => {
+  const characterCount = 500;
+
+  render(
+    <MemoryRouter>
+      <Home />
+    </MemoryRouter>,
+  );
+
+  const containerElement = screen.getByTestId('lorem-container');
+  const loremElements = containerElement.querySelectorAll('.lorem-text');
+
+  loremElements.forEach((element) => {
+    const text = element.textContent || '';
+    expect(text.length).toBeLessThanOrEqual(characterCount);
   });
 });
